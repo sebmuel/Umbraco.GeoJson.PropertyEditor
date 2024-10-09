@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco.Startup", "Umbraco.Startup\Umbraco.Startup.csproj", "{B450EA3F-720A-44DE-9EDA-7651A53B177F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoJsonEditor", "GeoJsonEditor\GeoJsonEditor.csproj", "{4FD0C893-0273-4896-A7F3-419383729D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B450EA3F-720A-44DE-9EDA-7651A53B177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B450EA3F-720A-44DE-9EDA-7651A53B177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B450EA3F-720A-44DE-9EDA-7651A53B177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B450EA3F-720A-44DE-9EDA-7651A53B177F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD0C893-0273-4896-A7F3-419383729D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD0C893-0273-4896-A7F3-419383729D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD0C893-0273-4896-A7F3-419383729D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD0C893-0273-4896-A7F3-419383729D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
